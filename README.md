@@ -1,6 +1,6 @@
 # Data Analysis of The Movide Database dataset
 
-See [Jupyter Notebook](tmdb.ipynb) for further details
+See [Jupyter Notebook](tmdb.ipynb) or [HTML version](tmdb.html) for further details.
 
 ## Dependencies
 
